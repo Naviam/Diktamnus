@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Diktamnus", ".", "{5C8D2878-19F7-41C7-AB5A-D168F79D7D9D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Diktamnus"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Project\Diktamnus\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Diktamnus\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Diktamnus"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Project\Diktamnus\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Diktamnus\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "11070"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8D2878-19F7-41C7-AB5A-D168F79D7D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8D2878-19F7-41C7-AB5A-D168F79D7D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
